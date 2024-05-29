@@ -18,7 +18,7 @@ Certifique-se de ter o .NET 8 instalado em sua máquina.
 
 1. Clone este repositório:
 
-git clone https://github.com/seu-usuario/checklist-api.git
+git clone [https://github.com/seu-usuario/checklist-api.git](https://github.com/ldlara/checklist.git)
 
 2. Navegue até o diretório do projeto:
 
